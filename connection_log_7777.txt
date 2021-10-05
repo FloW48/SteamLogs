@@ -1,0 +1,71 @@
+
+
+[2021-10-01 12:01:39] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2a01:bc80:8:100::9b85:fc0e]:80 (172.20.255.89:3128)) - TIMEOUT
+[2021-10-01 12:01:39] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2a01:bc80:7:100::9b85:f80e]:27019) - SUCCESS
+[2021-10-01 12:09:23] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (10.248.3.20)
+[2021-10-01 12:09:23] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-01 12:09:23] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (10.248.3.20)
+[2021-10-01 12:09:23] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-01 12:09:23] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (10.248.3.20)
+[2021-10-01 12:09:23] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-01 12:14:09] CCMInterface::OnNetworkDeviceStateChange -- Lost device 10.248.3.20
+[2021-10-01 12:14:09] CCMInterface::OnNetworkDeviceStateChange -- Lost device 10.248.3.20
+[2021-10-01 12:14:09] CCMInterface::OnNetworkDeviceStateChange -- Lost device 10.248.3.20
+[2021-10-01 12:21:35] [0,0] Log session ended
+
+
+[2021-10-01 21:19:27] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2a01:bc80:8:100::9b85:fc0e]:80 (172.20.255.89:3128)) - TIMEOUT
+[2021-10-01 21:19:27] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2a01:bc80:7:100::9b85:f80f]:27019) - SUCCESS
+[2021-10-01 22:29:38] [0,0] Log session ended
+
+
+[2021-10-03 23:04:35] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (172.20.255.89:3128)) - TIMEOUT
+[2021-10-03 23:04:35] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2021-10-03 23:05:36] [0,0] Log session ended
+
+
+[2021-10-03 23:07:12] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.57)
+[2021-10-03 23:07:12] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-03 23:07:12] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.57)
+[2021-10-03 23:07:12] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-03 23:07:12] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.57)
+[2021-10-03 23:07:12] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-03 23:07:12] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (172.20.255.89:3128)) - TIMEOUT
+[2021-10-03 23:07:12] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2021-10-04 00:03:05] [0,0] Log session ended
+
+
+[2021-10-05 19:16:49] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.57)
+[2021-10-05 19:16:49] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-05 19:16:49] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.57)
+[2021-10-05 19:16:49] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-05 19:16:49] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.57)
+[2021-10-05 19:16:49] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-05 19:16:49] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (172.20.255.89:3128)) - TIMEOUT
+[2021-10-05 19:16:49] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2021-10-05 19:28:58] CCMInterface::OnNetworkDeviceStateChange -- Lost device 192.168.1.57
+[2021-10-05 19:28:58] CCMInterface::OnNetworkDeviceStateChange -- Lost device 192.168.1.57
+[2021-10-05 19:28:58] CCMInterface::OnNetworkDeviceStateChange -- Lost device 192.168.1.57
+[2021-10-05 19:29:22] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.57)
+[2021-10-05 19:29:22] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-05 19:29:22] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.57)
+[2021-10-05 19:29:22] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-05 19:29:22] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.57)
+[2021-10-05 19:29:22] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-05 19:30:56] CCMInterface::OnNetworkDeviceStateChange -- Lost device 192.168.1.57
+[2021-10-05 19:30:56] CCMInterface::OnNetworkDeviceStateChange -- Lost device 192.168.1.57
+[2021-10-05 19:30:56] CCMInterface::OnNetworkDeviceStateChange -- Lost device 192.168.1.57
+[2021-10-05 19:32:20] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.136)
+[2021-10-05 19:32:20] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-05 19:32:20] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.136)
+[2021-10-05 19:32:20] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-05 19:32:20] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (192.168.1.136)
+[2021-10-05 19:32:20] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2021-10-05 19:33:52] CCMInterface::OnNetworkDeviceStateChange -- Lost device 192.168.1.136
+[2021-10-05 19:33:52] CCMInterface::OnNetworkDeviceStateChange -- Lost device 192.168.1.136
+[2021-10-05 19:33:52] CCMInterface::OnNetworkDeviceStateChange -- Lost device 192.168.1.136
+
+
+[2021-10-05 19:44:29] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2a01:bc80:1:103::a2fe:c611]:80 (172.20.255.89:3128)) - TIMEOUT
+[2021-10-05 19:44:30] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2a01:bc80:4:101::38]:27019) - SUCCESS
+[2021-10-05 20:02:23] [0,0] Log session ended
